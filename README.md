@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently study [CAP-AI TRACK](https://www.najah.edu/en/academic/undergraduate-programs/program/computer-science-apprenticeship-program/info-card/) in [An-Najah National University](https://www.najah.edu/en/)
+- 🌱 I’m currently studying [CAP-AI TRACK](https://www.najah.edu/en/academic/undergraduate-programs/program/computer-science-apprenticeship-program/info-card/) in [An-Najah National University](https://www.najah.edu/en/)
 - 🌱 I’m currently learning React-Native
 
 
