@@ -25,9 +25,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/tareq-saymeh-721635311/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/tareq-saymeh">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tareq.saymeh/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tareq.saymeh/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://x.com/TareqSaymeh4">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
