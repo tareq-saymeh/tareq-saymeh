@@ -16,11 +16,13 @@
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tareq-saymeh-721635311/) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareq-saymeh&" alt="tareq-saymeh" /></p>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
+
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/tareq-saymeh-721635311/">
