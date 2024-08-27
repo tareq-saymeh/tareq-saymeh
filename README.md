@@ -9,7 +9,6 @@
 </a>
 
 - 🌱 I’m currently studying [CAP-AI TRACK](https://www.najah.edu/en/academic/undergraduate-programs/program/computer-science-apprenticeship-program/info-card/) in [An-Najah National University](https://www.najah.edu/en/)
-- 🌱 I’m currently learning React-Native
 
 
 - 🤝 I’m available for freelancing.
