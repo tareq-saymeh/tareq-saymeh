@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<div align="center">
-  <img height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
+
 
 I'm [Tareq](https://www.linkedin.com/in/tareq-saymeh-721635311/), an AI Student from 🇵🇸.  
 I’m currently studying [CAP-AI TRACK](https://www.najah.edu/en/academic/undergraduate-programs/program/computer-science-apprenticeship-program/info-card/) at [An-Najah National University](https://www.najah.edu/en/).
