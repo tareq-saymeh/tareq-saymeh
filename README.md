@@ -2,6 +2,7 @@
 
 🎓 I'm [Tareq](https://www.linkedin.com/in/tareq-saymeh-721635311/), an AI Student from 🇵🇸  Currently studying [CAP-AI TRACK](https://www.najah.edu/en/academic/undergraduate-programs/program/computer-science-apprenticeship-program/info-card/) .
 
+
 💻 I enjoy blending my technical skills with 💡 creative ideas to develop innovative and efficient websites.  
 🚀 My passion lies in building robust and scalable software that solves real-world problems efficiently.
 
@@ -10,4 +11,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq-saymeh&layout=compact" alt="Top Languages" height="150" />
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{tareq-saymeh}/count.svg)
 <br/>
