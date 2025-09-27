@@ -11,7 +11,6 @@
 - 🧠 Machine Learning & Data Science
 - 🌐 Full-Stack Web Development (MERN, .NET, REST APIs)
 - 🧹 Clean Architecture, Scalable Systems & Deployment
-- 🤖 Currently exploring Large Language Models (LLMs) and chatbot development.
 
 ---
 
